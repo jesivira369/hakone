@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@hakone/ui-components": ["ui-components/src/index.ts"],
+        "@hakone/ui-components/*": ["ui-components/src/*"]
+      }
+    }
+  }

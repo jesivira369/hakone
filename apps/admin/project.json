@@ -4,5 +4,8 @@
   "sourceRoot": "apps/admin/src",
   "projectType": "application",
   "targets": {},
-  "tags": []
+  "tags": [],
+  "options": {
+    "postcssConfig": "apps/admin/postcss.config.js"
+  }
 }
